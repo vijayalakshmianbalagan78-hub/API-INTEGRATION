@@ -11,3 +11,7 @@
 "DURATION":4 WEEKS
 
 ##YOU HAVE TO ENTER DESCRIPTION OF YOUR TASK(AND IT SHOULD NOT BE LESS THAN 500 WORDS)
+
+#OUTPUT
+
+<img width="1080" height="812" alt="Image" src="https://github.com/user-attachments/assets/321e28be-65de-4c0a-8603-073d1759cb58" />
